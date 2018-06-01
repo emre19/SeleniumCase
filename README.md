@@ -1,8 +1,10 @@
-# SeleniumCase
+# SeleniumCase n11
 
 
+Proje Detayı :
+------------------------------------------------------------------------------------------------------------------------------------
 
-1.http://www.n11.com<http://www.n11.com/> sitesine gelecek ve anasayfanin acildigini onaylayacak
+1.http://www.n11.com sitesine gelecek ve anasayfanin acildigini onaylayacak
 
 2.Login ekranini acip, bir kullanici ile login olacak 
 
@@ -21,3 +23,7 @@
 9.Favorilere alinan bu urunun yanindaki 'Kaldir' butonuna basarak, favorilerimden cikaracak
 
 10.Sayfada bu urunun artik favorilere alinmadigini onaylayacak. 
+
+
+Projede Java programlama dili kullanılarak Junit 4.11 unit testing framework'ü ile yazılmıştır. Selenium-java 3.11 kullanımıştır.
+ 

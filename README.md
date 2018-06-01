@@ -1,5 +1,6 @@
 # SeleniumCase n11
 
+Projede Java programlama dili kullanılarak Junit 4.11 unit testing framework'ü ile yazılmıştır. Selenium-java 3.11 kullanımıştır.
 
 Proje Detayı :
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -25,5 +26,5 @@ Proje Detayı :
 10.Sayfada bu urunun artik favorilere alinmadigini onaylayacak. 
 
 
-Projede Java programlama dili kullanılarak Junit 4.11 unit testing framework'ü ile yazılmıştır. Selenium-java 3.11 kullanımıştır.
+
  

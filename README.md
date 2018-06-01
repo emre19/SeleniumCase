@@ -1,6 +1,9 @@
 # SeleniumCase n11
 
-Projede Java programlama dili kullanılarak Junit 4.11 unit testing framework'ü ile yazılmıştır. Selenium-java 3.11 kullanımıştır.
+Projramlama Dili : Java
+Dependencies     : Junit 4.11 , Selenium-java 3.11
+Driver           : ChromeDriver
+IDE              : Eclipse Java
 
 Proje Detayı :
 ------------------------------------------------------------------------------------------------------------------------------------
